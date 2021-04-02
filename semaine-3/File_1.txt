@@ -1,0 +1,2 @@
+Voici le texte du premier exercice.
+Il suffit de lire les différents caractères et les afficher à l'écran.
